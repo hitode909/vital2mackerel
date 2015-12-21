@@ -2,7 +2,7 @@
 
 Post fitbit's vital data to mackerel.io.
 
-You can monitor your heart breat rate.
+You can monitor your heart beat rate.
 
 ![](https://i.gyazo.com/6b0e8ccf6135bd99a87fec0f5b770b51.png)
 
